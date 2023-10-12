@@ -1,5 +1,5 @@
-// comments.js
-// create web server
+
+// Create web server
 const http = require('http');
 
 function createWebServer(port) {
